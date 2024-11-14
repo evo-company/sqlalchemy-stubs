@@ -1,0 +1,2 @@
+class CursorResult(object):
+    pass
